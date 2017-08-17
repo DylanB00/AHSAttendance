@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="PASSWORD" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5dfd19b6-8021-4d23-a567-508953c28197" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/AppIcon.appiconset/icon_16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/AppIcon.appiconset/icon_16x16@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/AppIcon.appiconset/icon_256x256@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/AppIcon.appiconset/icon_32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/AppIcon.appiconset/icon_32x32@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/AppIcon.appiconset/icon_512x512.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/AppIcon.appiconset/icon_512x512@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/Banner.imageset/Banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/Bluetooth.imageset/bluetooth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/InfoBox.imageset/InfoBox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/PresentBox.imageset/PresentBox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/Ribbon.imageset/Ribbon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/com.apple.macbook-retina-silver.imageset/com.apple.macbook-retina-silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/customLogo.imageset/customLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/ic_access_alarm_black_24dp_2x.imageset/ic_access_alarm_black_24dp_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/ic_account_circle_black_24dp_2x.imageset/ic_account_circle_black_24dp_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/icon_16x16.imageset/icon_16x16@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/icon_512x512.imageset/icon_512x512@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/lock-14.imageset/lock-14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/AboutViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/AdminSettingsViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/Banner.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/Bluetooth.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/InfoBox.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/PresentBox.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/Ribbon.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/com.apple.macbook-retina-silver.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/customLogo.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/ic_access_alarm_black_24dp_2x.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/ic_account_circle_black_24dp_2x.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/icon_16x16.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/icon_512x512.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/lock-14.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/HelpViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/LoginViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/MainViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHS Attendance/SettingsViewController.swift" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AHS Attendance/ViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AHS AttendanceTests/AHS_AttendanceTests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AHS AttendanceTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AHS AttendanceUITests/AHS_AttendanceUITests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AHS AttendanceUITests/Info.plist" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AHS Attendance/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/AHS Attendance/Main.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AHS Attendance.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/AHS Attendance.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AHS Attendance.xcodeproj/xcuserdata/student.xcuserdatad/xcschemes/AHS Attendance.xcscheme" afterPath="$PROJECT_DIR$/AHS Attendance.xcodeproj/xcuserdata/student.xcuserdatad/xcschemes/AHS Attendance.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AHS Attendance.xcodeproj/xcuserdata/student.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/AHS Attendance.xcodeproj/xcuserdata/student.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AHS Attendance/AppDelegate.swift" afterPath="$PROJECT_DIR$/AHS Attendance/AppDelegate.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/AHS Attendance/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AHS Attendance/Info.plist" afterPath="$PROJECT_DIR$/AHS Attendance/Info.plist" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="macos_x86_64" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainViewController.swift" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AHS Attendance/MainViewController.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1366" />
+    <option name="height" value="681" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AHS Attendance" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AHS Attendance" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AHS Attendance" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunManager" selected="Application.AHS Attendance">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AHS Attendance" TARGET_NAME="AHS Attendance" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AHS Attendance" RUN_TARGET_NAME="AHS Attendance" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="true" type="AppleScriptRunType" factoryName="Run AppleScript" logEvents="false">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AHS Attendance" TARGET_NAME="AHS Attendance" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AHS Attendance" TARGET_NAME="AHS AttendanceTests" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="AHS Attendance" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AHS Attendance" TARGET_NAME="AHS Attendance" CONFIG_NAME="Debug" SCHEME_NAME="AHS Attendance" RUN_TARGET_PROJECT_NAME="AHS Attendance" RUN_TARGET_NAME="AHS Attendance" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.AHS Attendance" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dfd19b6-8021-4d23-a567-508953c28197" name="Default" comment="" />
+      <created>1483548743478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1483548743478</updated>
+      <workItem from="1483548747363" duration="258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="258000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1366" height="681" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24597365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AHS Attendance/MainViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
