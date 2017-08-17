@@ -294,68 +294,68 @@ class MainViewController: NSViewController {
         func firstHour() {
             let now = Date()
             let first_time_value = now.dateAt(hours: 7, minutes: 55)
-            let second_time_value = now.dateAt(hours: 8, minutes: 41)
+            let second_time_value = now.dateAt(hours: 8, minutes: 45)
             if now >= first_time_value &&
                 now <= second_time_value {
             currentHourField.stringValue = "1st Hour"
                 upperStatusField.stringValue = "Click the button to be counted as present during this class period." } }
         func secondHour() {
             let now = Date()
-            let first_time_value = now.dateAt(hours: 8, minutes: 45)
-            let second_time_value = now.dateAt(hours: 9, minutes: 31)
+            let first_time_value = now.dateAt(hours: 8, minutes: 49)
+            let second_time_value = now.dateAt(hours: 9, minutes: 39)
             if now >= first_time_value &&
                 now <= second_time_value {
             currentHourField.stringValue = "2nd Hour"
                 upperStatusField.stringValue = "Click the button to be counted as present during this class period." } }
         func thirdHour() {
             let now = Date()
-            let first_time_value = now.dateAt(hours: 9, minutes: 35)
-            let second_time_value = now.dateAt(hours: 10, minutes: 21)
+            let first_time_value = now.dateAt(hours: 9, minutes: 43)
+            let second_time_value = now.dateAt(hours: 10, minutes: 33)
             if now >= first_time_value &&
                 now <= second_time_value {
             currentHourField.stringValue = "3rd Hour"
                 upperStatusField.stringValue = "Click the button to be counted as present during this class period." } }
         func fourthHour() {
                 let now = Date()
-                let first_time_value = now.dateAt(hours: 10, minutes: 25)
-                let second_time_value = now.dateAt(hours: 11, minutes: 11)
+                let first_time_value = now.dateAt(hours: 10, minutes: 37)
+                let second_time_value = now.dateAt(hours: 11, minutes: 27)
                 if now >= first_time_value &&
                     now <= second_time_value {
             currentHourField.stringValue = "4th Hour"
                 upperStatusField.stringValue = "Click the button to be counted as present during this class period." }}
         func fifthHourFirstLunch() {
             let now = Date()
-            let first_time_value = now.dateAt(hours: 11, minutes: 40)
-            let second_time_value = now.dateAt(hours: 12, minutes: 30)
+            let first_time_value = now.dateAt(hours: 11, minutes: 30)
+            let second_time_value = now.dateAt(hours: 11, minutes: 52)
             if now >= first_time_value &&
                 now <= second_time_value {
             currentHourField.stringValue = "5th Hour"
                 upperStatusField.stringValue = "Click the button to be counted as present during this class period." }}
         func fifthHourSecondLunch() {
             let now = Date()
-            let first_time_value = now.dateAt(hours: 11, minutes: 15)
-            let second_time_value = now.dateAt(hours: 12, minutes: 05)
+            let first_time_value = now.dateAt(hours: 12, minutes: 25)
+            let second_time_value = now.dateAt(hours: 12, minutes: 46)
             if now >= first_time_value &&
                 now <= second_time_value {
             currentHourField.stringValue = "5th Hour"
                 upperStatusField.stringValue = "Click the button to be counted as present during this class period." } }
         func sixthHour() {
             let now = Date()
-            let first_time_value = now.dateAt(hours: 12, minutes: 34)
-            let second_time_value = now.dateAt(hours: 13, minutes: 20)
+            let first_time_value = now.dateAt(hours: 13, minutes: 16)
+            let second_time_value = now.dateAt(hours: 14, minutes: 06)
             if now >= first_time_value &&
                 now <= second_time_value {
             currentHourField.stringValue = "6th Hour"
                 upperStatusField.stringValue = "Click the button to be counted as present during this class period." } }
         func seventhHour() {
             let now = Date()
-            let first_time_value = now.dateAt(hours: 13, minutes: 24)
-            let second_time_value = now.dateAt(hours: 14, minutes: 10)
+            let first_time_value = now.dateAt(hours: 14, minutes: 10)
+            let second_time_value = now.dateAt(hours: 15, minutes: 00)
             if now >= first_time_value &&
                 now <= second_time_value {
             currentHourField.stringValue = "7th Hour"
                 upperStatusField.stringValue = "Click the button to be counted as present during this class period."} }
-        func eighthHour() {
+        func homeroomHour() {
             let now = Date()
             let first_time_value = now.dateAt(hours: 14, minutes: 14)
             let second_time_value = now.dateAt(hours: 14, minutes: 59)
@@ -393,7 +393,7 @@ class MainViewController: NSViewController {
         fifthHourSecondLunch()
         sixthHour()
         seventhHour()
-        eighthHour()
+        homeroomHour()
         outOfSchoolHour()
         outOfSchoolHour2()
         if currentHourField.stringValue == "(In Between Classes)" {
